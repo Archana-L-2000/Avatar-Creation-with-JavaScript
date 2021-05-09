@@ -79,38 +79,5 @@ let drawRandomFace = () => {
 };
 
 drawRandomFace()
-/*drawLine(250,150,250,350);//Main body
 
-drawLine(250,200,150,150);//Right Arm
-drawLine(250,200,350,150);//Left Arm
-drawLine(250,350,225,450);//Right Leg
-drawLine(250,350,275,450);//Left Leg
-//body od stick man
-/*
-ctx.beginPath();
-ctx.moveTo(250,150);
-ctx.lineTo(250,350);
-ctx.stroke();
-//Right arm
-ctx.beginPath();
-ctx.moveTo(250,200);
-ctx.lineTo(150,150);
-ctx.stroke();
 
-//Left arm
-ctx.beginPath();
-ctx.moveTo(250,200);
-ctx.lineTo(350,150);
-ctx.stroke();
-//TRight Leg
-ctx.beginPath();
-ctx.moveTo(250,350);
-ctx.lineTo(225,450);
-ctx.stroke();
-//Left Leg
-ctx.beginPath();
-ctx.moveTo(250,350);
-ctx.lineTo(275,450);
-ctx.stroke();
-
-*/
